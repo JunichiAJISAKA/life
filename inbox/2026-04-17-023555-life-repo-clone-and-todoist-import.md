@@ -37,8 +37,9 @@ saved_at: 2026-04-17 02:52:42 JST
 - 再実行時に新規 2 件を追加で保存し、同様に削除・push まで完了。
 
 ## 保存ファイル
-- `~/git/life/inbox/2026-04-17-024142-todoist-life-import.md`
-- `~/git/life/inbox/2026-04-17-025210-todoist-life-import.md`
+- `~/git/life/inbox/2026-04-17-024141-todo-github.md` ほか 11 件
+- `~/git/life/inbox/2026-04-17-025209-hermes.md` ほか 1 件
+- 旧集約ファイル 2 件は廃止し、現在は各 Todo を 1 ファイルずつ保存
 
 ## 実行結果
 - 初回保存件数: 12 件
