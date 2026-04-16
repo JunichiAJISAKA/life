@@ -13,6 +13,11 @@ task_count: 12
 - ラベル: `life`
 - 件数: 12
 
+## Related links
+
+- GitHub Issue: [#1 Todo分析MVP: GTD/統計/認知負荷で『何を先に見るか』『何を隠すか』を定義する](https://github.com/JunichiAJISAKA/life/issues/1)
+- Related issue section: issue 本文内の `Related files` からこのファイルへリンク済み
+
 ## Tasks
 
 ### 1. Todoを GitHub で管理できるか検討
