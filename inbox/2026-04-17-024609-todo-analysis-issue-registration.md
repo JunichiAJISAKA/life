@@ -27,6 +27,10 @@ Todo を統計学的・数学的・仕事術的に整理し、「何を先に見
 - `life` の issue に登録し、関連ファイルをリンクする。
 - 可能ならサブエージェントを使って品質を上げる。
 
+## Related links
+- GitHub Issue: [#1 Todo分析MVP: GTD/統計/認知負荷で『何を先に見るか』『何を隠すか』を定義する](https://github.com/JunichiAJISAKA/life/issues/1)
+- Related note: [`inbox/2026-04-17-023555-life-repo-clone-and-todoist-import.md`](https://github.com/JunichiAJISAKA/life/blob/main/inbox/2026-04-17-023555-life-repo-clone-and-todoist-import.md)
+
 ## 作成結果
 - Issue: `https://github.com/JunichiAJISAKA/life/issues/1`
 - タイトル: `Todo分析MVP: GTD/統計/認知負荷で『何を先に見るか』『何を隠すか』を定義する`

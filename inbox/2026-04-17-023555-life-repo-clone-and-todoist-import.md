@@ -27,6 +27,10 @@ saved_at: 2026-04-17 02:52:42 JST
 4. `life` リポジトリは自動コミット・プッシュ
 5. 追加分が出たため再実行
 
+## Related links
+- GitHub Issue: [#1 Todo分析MVP: GTD/統計/認知負荷で『何を先に見るか』『何を隠すか』を定義する](https://github.com/JunichiAJISAKA/life/issues/1)
+- Related note: [`inbox/2026-04-17-024609-todo-analysis-issue-registration.md`](https://github.com/JunichiAJISAKA/life/blob/main/inbox/2026-04-17-024609-todo-analysis-issue-registration.md)
+
 ## 実施内容
 - `git@github.com:JunichiAJISAKA/life.git` を `~/git/life` に clone。
 - リポジトリは初回時点で empty repository だった。
